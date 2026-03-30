@@ -1,0 +1,14 @@
+Case Study (Phishing Example)
+
+Phishing is a type of cybercrime where attackers trick users into sharing sensitive information such as passwords or bank details. 
+It usually happens through fake emails, messages, or websites that appear legitimate.
+
+For example, a student may receive an email claiming to be from a bank, asking them to verify their account details. 
+The link in the email redirects to a fake website that looks real. 
+When the student enters their details, the attacker gains access to their account.
+
+Students and inexperienced users are often targeted because they may not recognize such scams.
+The consequences include financial loss, identity theft, and data misuse.
+
+Therefore,
+awareness and caution are essential to prevent phishing attacks.
